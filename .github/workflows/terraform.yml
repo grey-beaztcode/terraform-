@@ -3,7 +3,7 @@ name: terraform
 on:
   pull_request:
   push:
-    branches: [main, master]
+    branches: [feat/deploy-aws-infra]
 
 permissions:
   id-token: write
