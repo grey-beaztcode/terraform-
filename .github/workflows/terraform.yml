@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  AWS_REGION: us-west-3
+  AWS_REGION: eu-west-3
 
 jobs:
   plan:
